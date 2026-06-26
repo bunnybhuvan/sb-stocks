@@ -25,6 +25,7 @@ Users can:
 
 The project follows modern MERN architecture using React, Express, MongoDB Atlas, JWT Authentication, MVC Architecture, and REST APIs.
 
+https://sb-stocks-app.vercel.app/
 ---
 
 # ✨ Features
