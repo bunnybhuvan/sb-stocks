@@ -24,6 +24,8 @@ Users can:
 - View Market Data
 
 The project follows modern MERN architecture using React, Express, MongoDB Atlas, JWT Authentication, MVC Architecture, and REST APIs.
+<img width="1920" height="1080" alt="landing_pg1" src="https://github.com/user-attachments/assets/90578cbc-30ff-4b2d-9941-aa381103b575" />
+<img width="1920" height="1080" alt="landing_pg2" src="https://github.com/user-attachments/assets/e5401fbe-ed11-4e11-9895-4b72b9e720c2" />
 
 https://sb-stocks-app.vercel.app/
 ---
@@ -37,6 +39,8 @@ https://sb-stocks-app.vercel.app/
 - JWT Authentication
 - Password Encryption (bcrypt)
 - Protected Routes
+<img width="1920" height="1080" alt="login_pg" src="https://github.com/user-attachments/assets/9ca65575-79a1-4e00-b8dd-fb7612a17f9a" />
+<img width="1920" height="1080" alt="register_pg" src="https://github.com/user-attachments/assets/e3994bd0-a270-40d4-a73a-4d37fe163a61" />
 
 ---
 
@@ -50,6 +54,7 @@ https://sb-stocks-app.vercel.app/
 - Recent Orders
 - Trending Stocks
 - Market Overview
+<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/972efc88-c7b2-4258-bea2-d6a19e8f1522" />
 
 ---
 
@@ -63,6 +68,7 @@ https://sb-stocks-app.vercel.app/
 - Sector Filter
 - Market Cap Filter
 - Admin CRUD Operations
+<img width="1920" height="1080" alt="profile" src="https://github.com/user-attachments/assets/4176bd70-47a3-4484-8dca-d61c7098ee97" />
 
 ---
 
@@ -73,6 +79,7 @@ https://sb-stocks-app.vercel.app/
 - Investment Value
 - Profit/Loss
 - Auto Portfolio Creation
+<img width="1920" height="1080" alt="portfolio" src="https://github.com/user-attachments/assets/3f5ca525-3d73-4af8-883e-d886cdb4cc1d" />
 
 ---
 
@@ -84,6 +91,7 @@ https://sb-stocks-app.vercel.app/
 - Transaction History
 - Ownership Validation
 - Balance Validation
+<img width="1920" height="1080" alt="charts" src="https://github.com/user-attachments/assets/bd29743b-8541-46bb-975d-f432f1bb6fde" />
 
 ---
 
