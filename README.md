@@ -6,7 +6,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-red)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-
+https://sb-stocks-app.vercel.app/
 ---
 
 # 📖 Overview
@@ -27,7 +27,6 @@ The project follows modern MERN architecture using React, Express, MongoDB Atlas
 <img width="1920" height="1080" alt="landing_pg1" src="https://github.com/user-attachments/assets/90578cbc-30ff-4b2d-9941-aa381103b575" />
 <img width="1920" height="1080" alt="landing_pg2" src="https://github.com/user-attachments/assets/e5401fbe-ed11-4e11-9895-4b72b9e720c2" />
 
-https://sb-stocks-app.vercel.app/
 ---
 
 # ✨ Features
